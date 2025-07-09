@@ -15,5 +15,15 @@
         Console.WriteLine("My name is Daniel Awortwe.");
         Console.WriteLine("I'm a computer science and engineering student in UMaT");
 
+
+        //commenting in c#
+        Console.WriteLine("\n\nCommenting in c#");
+        //single line commenting
+        /*Multi line commenting
+            */
+
+
+
+
     }
 }
