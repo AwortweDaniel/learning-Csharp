@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "typeCasting", "typeCasting\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Input", "User Input\User Input.csproj", "{39132F88-4B7B-459E-82EB-69E1FCB497C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operators", "operators\operators.csproj", "{686F0F0E-E55F-47C2-A54A-77ED96EDE0DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{39132F88-4B7B-459E-82EB-69E1FCB497C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{39132F88-4B7B-459E-82EB-69E1FCB497C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{39132F88-4B7B-459E-82EB-69E1FCB497C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686F0F0E-E55F-47C2-A54A-77ED96EDE0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686F0F0E-E55F-47C2-A54A-77ED96EDE0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686F0F0E-E55F-47C2-A54A-77ED96EDE0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686F0F0E-E55F-47C2-A54A-77ED96EDE0DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
