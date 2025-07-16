@@ -51,5 +51,38 @@
         string fullname = $"My full name is {highname1.ToUpper()},{lowname2}";
         Console.WriteLine(fullname);
 
+        //Accessing Strings
+        string mySelf = "focus_fighter";
+        //Accessing the character at the 6th position
+        Console.WriteLine(mySelf[5]);
+        //finding the index of a character in a string
+        Console.WriteLine(mySelf.IndexOf("_"));
+
+
+        /*
+         * some methods used for strings
+         * indexOf() - example used above
+         * Substring() - extracts  characters from a string starting from the specified position
+         * eg is below
+         */
+        string allName = "Awortwe Nana Daniel Jr Mintah Kobina";
+        int posOfLast = allName.IndexOf("K");
+        string lastOfAll = allName.Substring(posOfLast);
+        Console.WriteLine($"{lastOfAll} is the last of all the names of the guy");
+
+
+        /*
+         * Special Characters
+         * Because strings are written in quotes, the example1 below will generate an error
+         *      example1; string txt = "We are the Giants,"Stand Tall" anyways.";
+         * We use the escape character to prevent this error
+         Examples are below
+         */
+
+        string greetings = "Hello, what\'s on going now?";
+        string senior = "Are you sure you can be referred to as the \"seniormost\"?";
+        Console.WriteLine($"{greetings}\n{senior}");
+
+
     }
 }
