@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boolean", "Boolean\Boolean.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if and else statement", "if and else statement\if and else statement.csproj", "{99F0F8AF-4912-4475-A615-5F1E4D48F21A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch statements", "switch statements\switch statements.csproj", "{07FCE0E8-E480-4126-8C72-91D249AFD61F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{99F0F8AF-4912-4475-A615-5F1E4D48F21A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{99F0F8AF-4912-4475-A615-5F1E4D48F21A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{99F0F8AF-4912-4475-A615-5F1E4D48F21A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07FCE0E8-E480-4126-8C72-91D249AFD61F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07FCE0E8-E480-4126-8C72-91D249AFD61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07FCE0E8-E480-4126-8C72-91D249AFD61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07FCE0E8-E480-4126-8C72-91D249AFD61F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
