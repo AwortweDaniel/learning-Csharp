@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if and else statement", "if
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "switch statements", "switch statements\switch statements.csproj", "{07FCE0E8-E480-4126-8C72-91D249AFD61F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "loops; for loop and while loop", "loops; for loop and while loop\loops; for loop and while loop.csproj", "{AE7221D4-D783-43C7-B071-9D178B4296F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{07FCE0E8-E480-4126-8C72-91D249AFD61F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07FCE0E8-E480-4126-8C72-91D249AFD61F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07FCE0E8-E480-4126-8C72-91D249AFD61F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7221D4-D783-43C7-B071-9D178B4296F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7221D4-D783-43C7-B071-9D178B4296F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7221D4-D783-43C7-B071-9D178B4296F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7221D4-D783-43C7-B071-9D178B4296F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
