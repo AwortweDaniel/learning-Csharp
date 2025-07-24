@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "while loop", "while loop\wh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "for loop", "for loop\for loop.csproj", "{065DFE4F-94E8-43A8-85D3-97432DD589A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "break", "break\break.csproj", "{120871A8-F62C-4F92-8B22-2A5F3BFAEAC7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{065DFE4F-94E8-43A8-85D3-97432DD589A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{065DFE4F-94E8-43A8-85D3-97432DD589A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{065DFE4F-94E8-43A8-85D3-97432DD589A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{120871A8-F62C-4F92-8B22-2A5F3BFAEAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{120871A8-F62C-4F92-8B22-2A5F3BFAEAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{120871A8-F62C-4F92-8B22-2A5F3BFAEAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{120871A8-F62C-4F92-8B22-2A5F3BFAEAC7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
