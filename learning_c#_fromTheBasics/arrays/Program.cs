@@ -124,6 +124,25 @@ internal class Program
 
         // Add values, using new
         countries = new string[] { "Ghana", "India", "England"};
+
+
+        //Multidimensional Array
+        int[,] Marks = new int[3, 4] {
+            {2,4,6,8 },
+            { 1,3,5,7},
+            { 2,3,5,7} };
+
+        //printing the array using for loop
+        for(int i =0; i< Marks.GetLength(0); i++)
+        {
+            for (int j = 0; j < Marks.GetLength(1); j++)
+            {
+                Console.WriteLine(Marks[i, j] + " ");
+            }
+            Console.WriteLine();
+        }
+
+
     }
 
 }
