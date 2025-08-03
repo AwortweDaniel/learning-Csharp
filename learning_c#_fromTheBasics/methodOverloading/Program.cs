@@ -1,10 +1,10 @@
 ﻿internal class Program
 {
-    public static int plusMethod(int x, int y)
+    static int plusMethod(int x, int y)
     {
         return x + y;
     }
-    public static double plusMethod(double x, double y)
+    static double plusMethod(double x, double y)
     {
         return x + y;
     }
