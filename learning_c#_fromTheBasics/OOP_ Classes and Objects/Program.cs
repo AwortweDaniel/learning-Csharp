@@ -1,6 +1,13 @@
 ﻿internal class Program
+
 {
-    private static void Main(string[] args)
+    class Car
+    {
+        int door = 2;
+        string name = "Vit";
+    }
+
+    public static void Main(string[] args)
     {
         Console.WriteLine("C# OOP, classes and Objects\n========================\n");
 
@@ -24,19 +31,15 @@
          * 
          * Syntax for creating a class
          * The keyword `class` together with the name of the class
-         * An exmaple is illustrated below
+         * An exmaple is illustrated above before the main method
          */
 
-        class Car
-    {
-        int door = 2;
-        string name = "Vit";
-    }
+        //Creating an object of the class
+        //To create an object, you specify the class name, followed by the object name, and use the keyword new 
+        Car myCar = new Car();
+       
 
-    //Creating an object of the class
-    //To create an object, you specify the class name, followed by the object name, and use the keyword new 
 
-    Car myCar = new Car();
     //Console.WriteLine("Enter the name of the car");
 
 }
